@@ -1,0 +1,23 @@
+{
+  "None": [],
+  "Food" : [
+    "essen",
+    "kochen",
+    "backen"
+  ],
+  "Liquid" : [
+    "trinken",
+    "gießen",
+    "schwimmen"
+  ],
+  "Furniture" : [
+    "bauen",
+    "sitzen",
+    "kaufen"
+  ],
+  "Animal": [
+    "laufen",
+    "atmen",
+    "rennen"
+  ]
+}
